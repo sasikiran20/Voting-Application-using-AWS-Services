@@ -7,4 +7,5 @@
 - Postman
 
 ## Architectural Diagram:
-![Architectural](https://user-images.githubusercontent.com/89773843/200127232-7eedae11-0b08-4684-b6ff-b8677163f563.png)
+![Architectural](https://user-images.githubusercontent.com/89773843/200127294-0b45ab95-cc16-4bcc-a16b-5507727f0466.png)
+
