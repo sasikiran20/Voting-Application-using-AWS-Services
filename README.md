@@ -1,4 +1,4 @@
-# Voting-Application-using-AWS-Services
+# Voting-Application-using-AWS-Services 
 ## Services Used:
 - DynamoDB
 - Lambda
