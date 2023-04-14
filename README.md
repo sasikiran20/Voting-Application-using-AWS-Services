@@ -1,5 +1,5 @@
 # Voting-Application-using-AWS-Services
-## Services Used:
+##  AWS Services Used:
 - DynamoDB
 - Lambda
 - API Gateway
